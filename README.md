@@ -1001,6 +1001,7 @@ Free & open-source.
 | 🤑 | [FlyonUI](https://flyonui.com) | Fully customizable 80+ Tailwind ui Components & variants, 500+ Blocks, Figma UI Kit, AI MCP, & 20+ Templates | Flat **30% OFF** with code **BFCM30FY** | 2025-12-01 |
 | 🤑 | [Shadcn Space](https://shadcnspace.com/) | A collection of beautifully designed, accessible, and composable free and Pro 320+ Shadcn UI blocks, 240+ components, and 9+ templates for your React/Next.js apps. Support both Base UI and Radix UI, styled with Tailwind CSS, it is ready to copy-paste or install via the Shadcn CLI. | Flat **20% OFF** with code **WP20** | 2026-12-01 |
 | 🤑 | [Shadcn Dashboard](https://shadcndashboard.dev/) | A production-ready shadcn dashboard kit with reusable UI blocks, components, and built-in AI prompts for React, Next.js, TypeScript, Tailwind CSS, and Supabase. Built on Base UI primitives for modern, scalable applications. | Flat **10% OFF** with code **OFF10** | 2028-12-31 |
+| ⚽ | [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY&ref=bf-rarebigdeal) | 87 sports-themed Tailwind CSS components (scoreboards, standings, match schedules, player cards) in HTML and React, light and dark, with a Figma file. | Flat **40% OFF** ($49 to $29) with code **BLACKFRIDAY** | 2026-11-30 |
 
 [⬆️ All categories](#table-of-contents)
 
